@@ -4,4 +4,6 @@ wget -q -O ~/.weechat/python/autoload/wee_slack.py "https://raw.githubuserconten
 
 wget -q -O ~/.weechat/python/autoload/autosort.py "https://weechat.org/files/scripts/autosort.py"
 
+wget -q -O ~/.weechat/perl/autoload/multiline.pl "https://weechat.org/files/scripts/multiline.pl"
+
 weechat

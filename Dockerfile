@@ -8,6 +8,7 @@ ENV HOME /weechat
 RUN apk add --update \
     weechat-aspell \
     weechat-python \
+    weechat-perl \
     python \
     py-pip \
     bash \
