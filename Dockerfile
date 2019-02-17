@@ -9,6 +9,7 @@ RUN apk add --update \
     weechat-aspell \
     weechat-python \
     weechat-perl \
+    weechat-lua \
     python \
     py-pip \
     bash \

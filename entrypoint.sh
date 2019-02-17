@@ -6,4 +6,6 @@ wget -q -O ~/.weechat/python/autoload/autosort.py "https://weechat.org/files/scr
 
 wget -q -O ~/.weechat/perl/autoload/multiline.pl "https://weechat.org/files/scripts/multiline.pl"
 
+wget -q -O ~/.weechat/lua/autoload/emoji.lua "https://raw.githubusercontent.com/godilley/weechat-addons/master/lua/emoji.lua"
+
 weechat
